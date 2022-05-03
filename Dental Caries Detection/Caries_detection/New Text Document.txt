@@ -1,0 +1,7 @@
+Step 1:-open anaconda prompt
+Step 2: go to the path where the files are downloaded
+Step 3: in path their must be app.py file which is main file to run the web app
+Step 4: type command as shown below:
+	flask run
+Step 5: open browser and enter the following URL: localhost:5000
+Step 6: upload the any image from sample images folder and then press "Predict" button
