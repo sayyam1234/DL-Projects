@@ -1,3 +1,0 @@
-Deep Learning Projects
-
-- Dental Caries Detection
