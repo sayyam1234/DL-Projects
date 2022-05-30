@@ -1,4 +1,0 @@
-Keras==2.4.3
-numpy==1.19.3
-Flask==1.1.2
-Werkzeug==1.0.1
